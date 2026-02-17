@@ -166,7 +166,7 @@ plot(meanFinalFraction ~ initialFraction, data = summaryResults, cex = 2)
 hist(results$finalFraction, xlab = "Final prop. infected")
 ```
 
-**Note:** Instead of the last block, you may find this one works better for your Problem Set 03 assignment!
+**Note:** Instead of the last block, you may find this one works better for your Problem Set 04 assignment!
 
 ```r
 ## First it is always good practice to allocate an empty
